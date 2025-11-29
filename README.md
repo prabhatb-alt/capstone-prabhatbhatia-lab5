@@ -2,6 +2,8 @@
 A modern, responsive FinTech landing page built entirely using **HTML & CSS** as part of the Web Development Lab Assignment.  
 This project demonstrates clean UI design, layout structuring, semantic HTML, component-based styling, and polished presentation — all without using JavaScript.
 
+https://fintech-proj-pb-lab5.netlify.app/
+
 <img width="1745" height="4353" alt="image" src="https://github.com/user-attachments/assets/45eb12c4-bb77-4402-9eab-a7ff48a83ac2" />
 
 ---
